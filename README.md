@@ -4,6 +4,6 @@ Ce projet consiste à développer notre propre serveur HTTP en C++98, compatible
 
 ## Auteurs
 
-- **JeSapelHaz** (hbutt)
+- **hbutt**
 - **thblonde**
 - **hdeldebecq**
